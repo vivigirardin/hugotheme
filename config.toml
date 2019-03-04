@@ -2,7 +2,6 @@ baseURL = "/"
 title   = "Viviane Girardin"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 DefaultContentLanguage = "en"
-avatar= "VivianeG.jpg"
 theme = "hugo-theme-hello-friend-ng"
 
 pygmentsCodefences = true
